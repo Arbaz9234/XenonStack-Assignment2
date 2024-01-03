@@ -1,6 +1,7 @@
 # Elegant Login & Register Forms built in React
 ![Screen Shot 2022-07-25 at 10 55 45 PM](https://user-images.githubusercontent.com/50160672/180913657-95824335-8089-4be3-91ba-6a0cbaef3d71.png)
 Website to select among the best iPhones
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
